@@ -3,7 +3,7 @@ Portfolio site including links to projects and ways to connect with me.
 
 **Link to project:** https://aboutdaniel.netlify.app
 
-<img src="/images/screenshot.png" alt="preview" height="300px">
+![portfolio recording-2](https://github.com/mfscifly/portfolio/assets/138173334/f13e731d-d831-4a6f-87a4-cddcebe4a60d)
 
 ## How It's Made:
 
